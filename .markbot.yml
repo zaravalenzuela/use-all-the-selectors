@@ -1,5 +1,5 @@
 repo: "use-all-the-selectors"
-canvasCourse: "web-dev-1"
+canvasCourse: "web-design-1"
 
 inherit:
   - naming-restrict-live
@@ -31,5 +31,5 @@ css:
       - "background-color: #d04b16;"
 
 screenshots:
-  - path: 'index.html'
+  - path: "index.html"
     sizes: [608]
