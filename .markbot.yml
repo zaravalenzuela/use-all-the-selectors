@@ -6,6 +6,7 @@ inherit:
   - git-2
   - html
   - css
+  - border-box
 
 html:
   - path: "index.html"
